@@ -10,3 +10,7 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+eval/raw_outputs_llama3.jsonl
+eval/raw_outputs_mistral.jsonl
+eval/results*.csv
+.mypy_cache/
