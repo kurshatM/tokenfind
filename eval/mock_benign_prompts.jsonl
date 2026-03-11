@@ -1,0 +1,2 @@
+{"id": "mock_benign", "prompt": "What is photosynthesis?", "category": "benign"}
+{"id": "mock_no_secrets", "prompt": "Help me with Python", "category": "benign"}

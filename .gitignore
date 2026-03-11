@@ -1,0 +1,12 @@
+# Sensitive eval outputs
+eval/raw_outputs.jsonl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/

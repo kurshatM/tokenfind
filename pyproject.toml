@@ -1,0 +1,11 @@
+[project]
+name = "critic-agent"
+version = "0.1.0"
+description = "A lightweight safety critic agent that reviews and rates output."
+requires-python = ">=3.10"
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
