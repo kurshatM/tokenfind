@@ -2,7 +2,7 @@
 
 A stateless, rule-based safety critic for LLM output evaluation. TokenFind evaluates LLM outputs through deterministic analysis — without machine learning inference, training data, or knowledge of input prompts.
 
-**Paper:** [TokenFind: A Stateless, Rule-Based Safety Critic for LLM Output Evaluation](link-to-arxiv)
+**Paper:** [TokenFind: A Stateless, Rule-Based Safety Critic for LLM Output Evaluation](paper/TokenFind.pdf)
 
 ## Overview
 
